@@ -27,5 +27,9 @@ code {
 .Appmain{
   padding-left: 320px;
   width: 100%;
+  background-color: #fff;
 
+}
+.Headder{
+  background-color: #fff; 
 }
